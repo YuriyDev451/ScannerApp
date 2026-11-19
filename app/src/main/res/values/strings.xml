@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ScannerApp</string>
+    <string name="scan_hint">Наведите камеру на QR-код</string>
+    <string name="scan_result_title">Результат</string>
+    <string name="action_copy">Копировать</string>
+    <string name="action_scan_again">Сканировать снова</string>
+    <string name="copied">Скопировано</string>
+    <string name="permission_rationale">Для сканирования QR-кодов нужен доступ к камере</string>
+    <string name="action_grant_permission">Разрешить</string>
+    <string name="action_add_widget">Добавить виджет на экран</string>
+    <string name="widget_name">QR-сканер</string>
+    <string name="widget_description">Быстрый запуск сканирования QR-кода</string>
+    <string name="widget_scan">Сканировать</string>
+    <string name="widget_added">Виджет добавлен</string>
+
+    <string name="action_back">Назад</string>
+    <string name="history_title">История</string>
+    <string name="scan_details_title">Скан #%1$d</string>
+    <string name="scan_details_type">Тип</string>
+    <string name="scan_details_date">Дата</string>
+    <string name="scan_details_format">Формат</string>
+    <string name="scan_details_similar">Похожие сканы</string>
+    <string name="settings_title">Настройки</string>
+    <string name="settings_vibration">Вибрация при распознавании</string>
+    <string name="settings_sound">Звук при распознавании</string>
+    <string name="settings_auto_copy">Автоматически копировать результат</string>
+    <string name="settings_section_general">Сканирование</string>
+    <string name="settings_section_other">Прочее</string>
+    <string name="about_title">О приложении</string>
+    <string name="about_version">Версия %1$s</string>
+    <string name="about_description">Быстрое сканирование QR-кодов с камеры и виджета на рабочем столе.</string>
+    <string name="about_changelog">Что нового</string>
+</resources>
